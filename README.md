@@ -64,10 +64,10 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| forge.photos     | available | $14.99    | $35.99        | 62             | 45     | 5      | name.com                                    |
+| insurance.photos | available | $40.98    | —             | 76             | 44     | 9      | namecheap                                   |
 | love.photos      | resell    | —         | —             | 86             | 99     | 4      | 1API GmbH                                   |
 | property.photos  | premium   | $128.70   | $128.70       | 90             | 99     | 8      | namecheap                                   |
-| insurance.photos | available | $40.98    | —             | 76             | 44     | 9      | namecheap                                   |
+| forge.photos     | available | $14.99    | $35.99        | 62             | 44     | 5      | name.com                                    |
 | get.photos       | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 10                           |
 | power.photos     | premium   | $26       | $26           | 98             | 62     | 5      | namecheap                                   |
 | wizard.photos    | available | $14.99    | $35.99        | 118            | 43     | 6      | name.com                                    |
@@ -78,12 +78,12 @@ print(df.head())
 | aaa.photos       | premium   | $26       | $26           | 70             | 42     | 3      | namecheap                                   |
 | strategy.photos  | available | $40.98    | —             | 74             | 43     | 8      | namecheap                                   |
 | web.photos       | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC                                 |
-| mark.photos      | premium   | $26       | $26           | 66             | 42     | 4      | namecheap                                   |
+| mark.photos      | premium   | $26       | $26           | 66             | 41     | 4      | namecheap                                   |
 | agile.photos     | available | $14.99    | $35.99        | 92             | 41     | 5      | name.com                                    |
 | sex.photos       | resell    | —         | —             | 98             | 59     | 3      | Dynadot Inc                                 |
 | custom.photos    | premium   | $250      | $250          | 110            | 39     | 6      | name.com                                    |
 | research.photos  | available | $40.98    | —             | 92             | 41     | 8      | namecheap                                   |
-| free.photos      | resell    | —         | —             | 88             | 59     | 4      | GoDaddy.com, LLC                            |
+| free.photos      | resell    | —         | —             | 88             | 57     | 4      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
