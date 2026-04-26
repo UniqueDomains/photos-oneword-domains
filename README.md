@@ -1,22 +1,22 @@
-# Available .PHOTOS One-Word Domains (8,667)
+# Available .PHOTOS One-Word Domains (11,080)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C667%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C667%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C080%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .photos one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .photos one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,080 domains** on the canonical page below.
 
-**Public extract:** 8,667 rows · **Live catalog:** 8,667 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,080 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/photos`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PHOTOS one-word domai
 
 ### Files
 
-- `photos.csv` — public CSV extract (8,667 rows)
-- `photos.json` — public JSON extract (8,667 rows)
+- `photos.csv` — public CSV extract (1,000 rows)
+- `photos.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| insurance.photos | available | $40.98    | —             | 76             | 44     | 9      | namecheap                                   |
-| love.photos      | resell    | —         | —             | 86             | 99     | 4      | 1API GmbH                                   |
-| property.photos  | premium   | $128.70   | $128.70       | 90             | 99     | 8      | namecheap                                   |
-| forge.photos     | available | $14.99    | $35.99        | 62             | 44     | 5      | name.com                                    |
-| get.photos       | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 10                           |
-| power.photos     | premium   | $26       | $26           | 98             | 62     | 5      | namecheap                                   |
-| wizard.photos    | available | $14.99    | $35.99        | 118            | 43     | 6      | name.com                                    |
-| easy.photos      | resell    | —         | —             | 128            | 68     | 4      | Porkbun LLC                                 |
-| athletics.photos | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                   |
-| scale.photos     | available | $14.99    | —             | 78             | 43     | 5      | name.com                                    |
-| home.photos      | resell    | —         | —             | 100            | 62     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| aaa.photos       | premium   | $26       | $26           | 70             | 42     | 3      | namecheap                                   |
-| strategy.photos  | available | $40.98    | —             | 74             | 43     | 8      | namecheap                                   |
-| web.photos       | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC                                 |
-| mark.photos      | premium   | $26       | $26           | 66             | 41     | 4      | namecheap                                   |
-| agile.photos     | available | $14.99    | $35.99        | 92             | 41     | 5      | name.com                                    |
-| sex.photos       | resell    | —         | —             | 98             | 59     | 3      | Dynadot Inc                                 |
-| custom.photos    | premium   | $250      | $250          | 110            | 39     | 6      | name.com                                    |
-| research.photos  | available | $40.98    | —             | 92             | 41     | 8      | namecheap                                   |
-| free.photos      | resell    | —         | —             | 88             | 57     | 4      | GoDaddy.com, LLC                            |
+| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| agents.photos             | available | $14.99    | —             | 56             | 50     | 6      | name.com                  |
+| ADS.photos                | resell    | —         | —             | 70             | 43     | 3      | Dynadot Inc               |
+| plans.photos              | premium   | $123.75   | —             | 60             | 20     | 5      | name.com                  |
+| shortcuts.photos          | available | $14.99    | —             | 48             | 41     | 10     | name.com                  |
+| aliens.photos             | resell    | —         | —             | 56             | 35     | 6      | HOSTINGER operations, UAB |
+| watches.photos            | premium   | $28       | $28           | 84             | 19     | 7      | namecheap                 |
+| WiFi.photos               | available | $40.98    | —             | 83             | 37     | 5      | namecheap                 |
+| affirmation.photos        | resell    | —         | —             | 82             | 10     | 11     | GoDaddy.com, LLC          |
+| roses.photos              | premium   | $28       | $28           | 68             | 16     | 5      | namecheap                 |
+| tickets.photos            | available | $14.99    | —             | 64             | 34     | 7      | name.com                  |
+| actors.photos             | premium   | $28       | $28           | 60             | 14     | 6      | namecheap                 |
+| rewards.photos            | available | $14.99    | —             | 62             | 30     | 7      | name.com                  |
+| SantaClara.photos         | premium   | $28       | $28           | 75             | 9      | 11     | namecheap                 |
+| blocks.photos             | available | $14.99    | —             | 53             | 29     | 6      | name.com                  |
+| DistrictofColumbia.photos | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap                 |
+| commonground.photos       | available | $14.99    | —             | 74             | 28     | 13     | name.com                  |
+| gems.photos               | available | $14.99    | —             | 70             | 28     | 4      | name.com                  |
+| forms.photos              | available | $14.99    | —             | 54             | 28     | 5      | name.com                  |
+| KFC.photos                | available | $40.98    | —             | 74             | 27     | 3      | namecheap                 |
+| bees.photos               | available | $14.99    | —             | 54             | 27     | 4      | name.com                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,667-row public sample | 8,667 live domains                               |
+| 1,000-row public sample | 11,080 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
