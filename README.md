@@ -66,7 +66,7 @@ print(df.head())
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
 | agents.photos       | available | $14.99    | —             | 56             | 50     | 6      | name.com                  |
 | ADS.photos          | resell    | —         | —             | 70             | 45     | 3      | Dynadot Inc               |
-| plans.photos        | premium   | $123.75   | —             | 60             | 20     | 5      | name.com                  |
+| plans.photos        | premium   | $123.75   | —             | 60             | 21     | 5      | name.com                  |
 | shortcuts.photos    | available | $14.99    | —             | 48             | 41     | 10     | name.com                  |
 | aliens.photos       | resell    | —         | —             | 56             | 35     | 6      | HOSTINGER operations, UAB |
 | watches.photos      | premium   | $28       | $28           | 84             | 19     | 7      | namecheap                 |
