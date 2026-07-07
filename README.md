@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .photos one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,554 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,554 domains · **Median ask:** $17.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,554 domains · **Median ask:** $17.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/photos`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/photos`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PHOTOS one-word domai
 
 ### Files
 
-- `photos.csv` — public CSV extract (1,000 rows)
-- `photos.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `photos.csv`, public CSV extract (1,000 rows)
+- `photos.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| agents.photos       | available | $14.99    | —             | 56             | 50     | 6      | name.com                  |
-| ADS.photos          | resell    | —         | —             | 70             | 45     | 3      | Dynadot Inc               |
-| plans.photos        | premium   | $123.75   | —             | 60             | 21     | 5      | name.com                  |
-| shortcuts.photos    | available | $14.99    | —             | 48             | 41     | 10     | name.com                  |
-| aliens.photos       | resell    | —         | —             | 56             | 35     | 6      | HOSTINGER operations, UAB |
-| watches.photos      | premium   | $28       | $28           | 84             | 19     | 7      | namecheap                 |
-| WiFi.photos         | available | $40.98    | —             | 83             | 37     | 5      | namecheap                 |
-| affirmation.photos  | resell    | —         | —             | 82             | 10     | 11     | GoDaddy.com, LLC          |
-| roses.photos        | premium   | $28       | $28           | 68             | 16     | 5      | namecheap                 |
-| tickets.photos      | available | $14.99    | —             | 64             | 34     | 7      | name.com                  |
-| actors.photos       | premium   | $28       | $28           | 60             | 14     | 6      | namecheap                 |
-| rewards.photos      | available | $14.99    | —             | 62             | 30     | 7      | name.com                  |
-| passports.photos    | premium   | $38.94    | $38.94        | 59             | 10     | 9      | namesilo                  |
-| blocks.photos       | available | $14.99    | —             | 53             | 29     | 6      | name.com                  |
-| SantaClara.photos   | premium   | $28       | $28           | 75             | 9      | 11     | namecheap                 |
-| commonground.photos | available | $14.99    | —             | 74             | 28     | 13     | name.com                  |
-| gems.photos         | available | $14.99    | —             | 70             | 28     | 4      | name.com                  |
-| forms.photos        | available | $14.99    | —             | 54             | 28     | 5      | name.com                  |
-| KFC.photos          | available | $40.98    | —             | 74             | 27     | 3      | namecheap                 |
-| bees.photos         | available | $14.99    | —             | 54             | 27     | 4      | name.com                  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| cap.photos   | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| pin.photos   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| gay.photos   | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| Eid.photos   | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| toy.photos   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| may.photos   | premium   | $28       | $28           | high           | low    | 3      | namecheap        |
+| had.photos   | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| usa.photos   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| sit.photos   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo         |
+| ham.photos   | available | $14.99    | —             | medium         | low    | 3      | name.com         |
+| mass.photos  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| fish.photos  | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| job.photos   | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| mist.photos  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| logo.photos  | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo         |
+| mum.photos   | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| soft.photos  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| room.photos  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| pig.photos   | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| north.photos | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .photos domains. The strongest names pair a clear keyword with an extension that instantly signals photography, imagery, galleries, or visual content. Concrete words such as pretzel.photos or liquor.photos can suit niche photo libraries, editorial projects, or commercial image brands. More abstract words like crucial.photos or agreeable.photos may be harder to position and explain. When comparing these domains, start with exact keyword relevance, then check memorability, ambiguity, and whether the word feels natural with .photos. The median ask is 17.64, but price alone should not outweigh clarity, resale limits, or possible trademark friction on commercial terms.
+This list of .photos domain names covers two-word, descriptive combinations built around everyday verbs, nouns, and lifestyle terms paired with the .photos extension. Names like keepfit.photos, getlife.photos, and bonappetit.photos show the range, from wellness to food to everyday moments. Whether you're comparing pricing and renewal costs or shortlisting a brandable name for a launch, this selection stays low-cost and easy to evaluate, with a median ask near $17.38 across the set.
 
-- Best fit: clear keywords that read naturally with .photos
-- Check if the word suits imagery, galleries, or visual content
-- Favor memorable terms over abstract or awkward pairings
-- Low ask can help, but renewal risk still matters
+- 11,554 .photos domain names across countless naming styles
+- Median ask near $17.38 — low-cost entry across the board
+- Two-word, brandable combos like keepfit.photos, getlife.photos
+- Updated daily to reflect the latest available .photos names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
