@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .photos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,221 domains · **Median ask:** $12.72 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/photos`
 **Best for:** founders, investors, studios
 
@@ -65,11 +65,10 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | fuck.photos   | available | —         | —             | high           | medium | 4      | —                |
-| soft.photos   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| gay.photos    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | pardon.photos | available | $14.99    | —             | high           | low    | 6      | name.com         |
 | cap.photos    | available | $14.99    | —             | high           | low    | 3      | name.com         |
 | pin.photos    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| gay.photos    | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
 | eid.photos    | available | $14.99    | —             | high           | low    | 3      | name.com         |
 | toy.photos    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | may.photos    | premium   | $28       | $28           | high           | low    | 3      | namecheap        |
@@ -83,6 +82,7 @@ print(df.head())
 | mist.photos   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | logo.photos   | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo         |
 | mum.photos    | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| soft.photos   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | room.photos   | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
