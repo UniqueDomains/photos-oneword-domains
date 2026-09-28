@@ -1,10 +1,10 @@
-# Available .PHOTOS One-Word Domains (21,957)
+# Available .PHOTOS One-Word Domains (22,441)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C957%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C441%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .photos one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,957 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,441 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,957 domains · **Median ask:** $13.41 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 22,441 domains · **Median ask:** $13.43 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/photos`
@@ -77,13 +77,13 @@ print(df.head())
 | endorse.photos    | available | $8.98     | $40.98        | high           | low    | 7      | namecheap        |
 | hat.photos        | premium   | $26       | $26           | high           | low    | 3      | namecheap        |
 | strategic.photos  | available | $15.99    | $29.99        | high           | low    | 9      | namesilo         |
-| launch.photos     | available | $15.99    | $29.99        | high           | medium | 6      | namesilo         |
 | considered.photos | available | $8.98     | $40.98        | high           | low    | 10     | namecheap        |
 | cross.photos      | available | $15.99    | $29.99        | high           | low    | 5      | namesilo         |
 | diligent.photos   | available | $15.99    | $29.99        | high           | low    | 8      | namesilo         |
 | financial.photos  | available | $8.98     | $40.98        | high           | low    | 9      | namecheap        |
 | binary.photos     | available | $15.99    | $29.99        | high           | low    | 6      | namesilo         |
 | remedial.photos   | available | $15.99    | $29.99        | high           | low    | 8      | namesilo         |
+| inevitable.photos | available | $15.99    | $29.99        | high           | low    | 10     | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,957 live domains                        |
+| 1,000-row public sample | 22,441 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
