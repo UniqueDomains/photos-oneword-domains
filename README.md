@@ -1,10 +1,10 @@
-# Available .PHOTOS One-Word Domains (28,455)
+# Available .PHOTOS One-Word Domains (29,941)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C455%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C941%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .photos one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,455 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,941 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,455 domains · **Median ask:** $13.40 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 29,941 domains · **Median ask:** $13.41 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/photos`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| aft.photos   | available | $8.98     | $40.98        | high           | low    | 3      | namecheap         |
-| file.photos  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 41 |
-| bow.photos   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
-| awn.photos   | available | $15.99    | $29.99        | high           | low    | 3      | namesilo          |
-| rare.photos  | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
-| hat.photos   | premium   | $26       | $26           | high           | low    | 3      | namecheap         |
-| bnp.photos   | available | $7.96     | $24.01        | high           | low    | 3      | spaceship         |
-| send.photos  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
-| rio.photos   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| gaa.photos   | available | $7.96     | $24.01        | high           | low    | 3      | spaceship         |
-| sexy.photos  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
-| six.photos   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo          |
-| hid.photos   | available | $8.98     | $40.98        | medium         | low    | 3      | namecheap         |
-| hotel.photos | resell    | —         | —             | high           | medium | 5      | Porkbun LLC       |
-| bury.photos  | premium   | $23.60    | $23.60        | high           | low    | 4      | namesilo          |
-| hoy.photos   | available | $15.99    | $29.99        | high           | low    | 3      | namesilo          |
-| polar.photos | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
-| cary.photos  | premium   | $26       | $26           | high           | low    | 4      | namecheap         |
-| jar.photos   | available | $15.99    | $29.99        | high           | low    | 3      | namesilo          |
-| scott.photos | resell    | —         | —             | high           | medium | 5      | NameCheap, Inc.   |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| rare.photos       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| wizard.photos     | available | $8.98     | $40.98        | high           | medium | 6      | namecheap        |
+| matrix.photos     | available | $7.96     | $24.01        | high           | medium | 6      | spaceship        |
+| express.photos    | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo         |
+| healthcare.photos | resell    | —         | —             | high           | low    | 10     | Spaceship, Inc.  |
+| table.photos      | available | $7.96     | $24.01        | high           | low    | 5      | spaceship        |
+| comprehend.photos | available | $7.96     | $24.01        | high           | low    | 10     | spaceship        |
+| back.photos       | available | $15.99    | $29.99        | high           | low    | 4      | namesilo         |
+| diploma.photos    | available | $7.96     | $24.01        | high           | low    | 7      | spaceship        |
+| promoter.photos   | available | $8.24     | $24.83        | high           | low    | 8      | dynadot          |
+| difference.photos | available | $15.99    | $29.99        | high           | low    | 10     | namesilo         |
+| send.photos       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| numbers.photos    | available | $7.96     | $24.01        | high           | low    | 7      | spaceship        |
+| bow.photos        | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo         |
+| apologize.photos  | available | $8.24     | $24.83        | high           | low    | 9      | dynadot          |
+| conquest.photos   | available | $15.99    | $29.99        | high           | low    | 8      | namesilo         |
+| informal.photos   | available | $15.99    | $29.99        | high           | low    | 8      | namesilo         |
+| arabic.photos     | available | $15.99    | $29.99        | high           | low    | 6      | namesilo         |
+| subtle.photos     | available | $7.96     | $24.01        | high           | low    | 6      | spaceship        |
+| spray.photos      | available | $7.96     | $24.01        | high           | low    | 5      | spaceship        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,455 live domains                        |
+| 1,000-row public sample | 29,941 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTOS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
